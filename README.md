@@ -1,4 +1,4 @@
-# template
-**Start**: 202x.xx.xx
-- Write down a brief introduction to your mint project.
-- Set your nickname to the name of the repository and the title of the README. (ex. `mint-from-scratch / username`, `# username`)
+# seojilee
+**Start**: 2024.03.10
+- My toy os project.
+- Reference: <64비트 멀티코어 OS 원리와 구조 - 한승훈>
